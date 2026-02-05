@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <!-- Metronome body -->
+  <path d="M196 420 L236 120 L276 120 L316 420 Z" fill="#1f2937" stroke="#374151" stroke-width="4"/>
+  <!-- Pendulum arm -->
+  <line x1="256" y1="380" x2="200" y2="140" stroke="#14b8a6" stroke-width="6" stroke-linecap="round"/>
+  <!-- Pivot dot -->
+  <circle cx="256" cy="380" r="10" fill="#8b5cf6"/>
+  <!-- Weight -->
+  <circle cx="200" cy="140" r="14" fill="#f59e0b"/>
+  <!-- Modulation waves -->
+  <path d="M100 300 Q128 280 156 300 Q184 320 212 300" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.5"/>
+  <path d="M300 200 Q328 180 356 200 Q384 220 412 200" fill="none" stroke="#8b5cf6" stroke-width="3" opacity="0.5"/>
+</svg>

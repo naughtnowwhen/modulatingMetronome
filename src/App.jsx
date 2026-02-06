@@ -166,6 +166,7 @@ const PLL_MODES = [
 const SUBDIV_OPTIONS = [
   { label: '♩', value: 1, desc: 'Quarter' },
   { label: '♪♪', value: 2, desc: '8th' },
+  { label: '³', value: 3, desc: 'Triplet' },
   { label: '♬♬', value: 4, desc: '16th' },
 ];
 
